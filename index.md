@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+<h1>zayan</h1>
 
 <br>
 
@@ -11,5 +11,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+[text](https://example.com)
 
