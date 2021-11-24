@@ -11,5 +11,5 @@ layout: default
 
 <br>
 
-[text](https://example.com)
+[text](https://Google.com)
 
