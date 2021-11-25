@@ -1,2 +1,2 @@
-candy
-book
+*candy
+*book
